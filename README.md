@@ -15,4 +15,15 @@
 | ------- | ------- | ------- |
 | **2022.09.01~** | **부스트캠프 웹・모바일 7기 멤버십(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
 | **2022.07.18 ~ 2022.08.12** | **부스트캠프 웹・모바일 7기 챌린지(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
-| **2022.01.31** | **42 Seoul** | https://www.42seoul.kr/seoul42/main/view |
+| **2022.07.05 ~ 2022.08.26** | **CLOVA AI RUSH 2022** | https://campaign.naver.com/clova_airush/ |
+| **2022.01.31 ~ 2022.05.23** | **42 Seoul** | https://www.42seoul.kr/seoul42/main/view |
+| **2021.08.02 ~ 2021.12.27** | **부스트캠프 AI Tech 2기 (Coumputer Vision)** | https://boostcamp.connect.or.kr/program_ai.html |
+
+## Awards
+
+| PERIOD(Date) | TITLE | SUBJECT | Rank |
+| ------- | ------- | ------- |  ------- |
+| **2022.08.01 ~ 2022.08.26** | **CLOVA AI RUSH 2022** | 플레이스 이미지 점수 측정 모델 | 5등 |
+| **2022.07.05 ~ 2022.07.27** | **CLOVA AI RUSH 2022** | ImageVision - Face age prediction | 8등 |
+| **2021.07.03** | **연세대학교 미래캠퍼스 슬기로운 코딩생활** | 교내 알고리즘 대회 | 2등 |
+| **2021.01.04 ~ 2021.01.22** | **연세대학교 미래캠퍼스 겨울방학 SW집중교육 프로그램** | 데이터베이스 과정 | 최우수상 |
