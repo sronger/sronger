@@ -1,5 +1,7 @@
 
 ### Hello I`m Juntae Kim😉
+### I majored in Environmental Engineering
+### I`m intersted in Computer vision project and Serving
 ### E-mail : kjt8709@nate.com
 
 
