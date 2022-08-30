@@ -11,7 +11,7 @@
 
 ## Experience
 
-| PERIOD | TITLE | SUBJECT |
+| PERIOD | TITLE |  |
 | ------- | ------- | ------- |
 | **2022.09.01~** | **부스트캠프 웹・모바일 7기 멤버십(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
 | **2022.07.18 ~ 2022.08.12** | **부스트캠프 웹・모바일 7기 챌린지(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
