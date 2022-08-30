@@ -13,6 +13,6 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- |
-| **2022.09.01~** | **부스트캠프 웹・모바일 7기 멤버십(Web)** | 프로그램 - boostcamp (connect.or.kr) |
-| **2022.07.18 ~ 2022.08.12** | **부스트캠프 웹・모바일 7기 챌린지(Web)** | 프로그램 - boostcamp (connect.or.kr) |
-| **2022.01.31** | **42 Seoul** | 메인 | 이노베이션 아카데미 (42seoul.kr) |
+| **2022.09.01~** | **부스트캠프 웹・모바일 7기 멤버십(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
+| **2022.07.18 ~ 2022.08.12** | **부스트캠프 웹・모바일 7기 챌린지(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
+| **2022.01.31** | **42 Seoul** | https://www.42seoul.kr/seoul42/main/view |
