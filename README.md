@@ -19,7 +19,7 @@
 
 | PERIOD | TITLE |  |
 | ------- | ------- | ------- |
-| **2022.09.01~** | **부스트캠프 웹・모바일 7기 멤버십(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
+| **2022.08.31~** | **부스트캠프 웹・모바일 7기 멤버십(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
 | **2022.07.18 ~ 2022.08.12** | **부스트캠프 웹・모바일 7기 챌린지(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
 | **2022.07.05 ~ 2022.08.26** | **CLOVA AI RUSH 2022** | https://campaign.naver.com/clova_airush/ |
 | **2022.01.31 ~ 2022.05.23** | **42 Seoul 6기** | https://www.42seoul.kr/seoul42/main/view |
