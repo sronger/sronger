@@ -1,7 +1,7 @@
 
 ### Hello I`m Juntae Kim😉
 ### I majored in Environmental Engineering
-### I`m intersted in Front-end and MLOps
+### I`m intersted in Front-end and AI
 ### E-mail : kjt8709@nate.com
 
 
