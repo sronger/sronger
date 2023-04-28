@@ -1,7 +1,7 @@
 
 ### Hello I`m Juntae Kim😉
 ### I majored in Environmental Engineering
-### I`m intersted in Front-end and AI
+### I`m intersted in Computer Vision
 ### E-mail : kjt8709@nate.com
 
 
@@ -36,6 +36,7 @@
 
 | PERIOD | TITLE |  |
 | ------- | ------- | ------- |
+| **2023.04.03 ~ ing** | **SW마에스트로** | https://swmaestro.org/sw/main/main.do |
 | **2022.08.31 ~ 2022.12.16** | **네이버 커넥트재단 부스트캠프 웹・모바일 7기 멤버십(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
 | **2022.07.18 ~ 2022.08.12** | **네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
 | **2022.07.05 ~ 2022.08.26** | **CLOVA AI RUSH 2022** | https://campaign.naver.com/clova_airush/ |
@@ -46,6 +47,8 @@
 
 | Rank | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- |  ------- |
+|  **10등** | **2023.03.25 ~ 2023.03.26** | LG Aimers | [스마트 공장 제품 품질 상태 분류 AI 오프라인 해커톤](https://dacon.io/competitions/official/236080/overview/description) |
+|  **14등** | **2022.10.04 ~ 2022.11.14** | Dacon | [월간 데이콘 예술 작품 화가 분류 AI 경진대회](https://dacon.io/competitions/official/236006/overview/rules) |
 |  **5등** | **2022.08.01 ~ 2022.08.26** | CLOVA AI RUSH 2022 2라운드 | 좋은 리뷰 사진 점수화 모델 개발 |
 |  **8등** | **2022.07.05 ~ 2022.07.27** | CLOVA AI RUSH 2022 1라운드 | ImageVision - Face age prediction |
 |  **우수상** | **2021.07.03** | 연세대학교 미래캠퍼스 슬기로운 코딩생활 | 교내 알고리즘 대회 |
