@@ -36,7 +36,6 @@
 
 | PERIOD | TITLE |  |
 | ------- | ------- | ------- |
-| **2023.04.03 ~ ing** | **SW마에스트로** | https://swmaestro.org/sw/main/main.do |
 | **2022.08.31 ~ 2022.12.16** | **네이버 커넥트재단 부스트캠프 웹・모바일 7기 멤버십(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
 | **2022.07.18 ~ 2022.08.12** | **네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
 | **2022.07.05 ~ 2022.08.26** | **CLOVA AI RUSH 2022** | https://campaign.naver.com/clova_airush/ |
