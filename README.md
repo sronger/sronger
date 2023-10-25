@@ -1,8 +1,9 @@
 
 ### Hello I`m Juntae Kim😉
+### I have an interest in everything related to Artificial Intelligence.
 ### E-mail : kjt8709@nate.com
 
-
+<!--
 ### ✨Tech Stack
 
 #### AI
@@ -30,7 +31,20 @@
 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 
+-->
+
+## ✨Publications
+
+| AUTHOR | TITLE | GitHub |
+| ------- | ------- | ------- |
+| **Juntae Kim**, Eunjung Cho, Dongwoo Kim, Dongbin Na | **Problem-Solving Guide: Predicting the Algorithm Tags and Difficulty for Competitive Programming Problems** | [GitHub](https://github.com/sronger/PSG_Predicting_Algorithm_Tags_and_Difficulty) |
+
 ## ✨Experience
+
+<!--
+| **2023.04.07 ~ 2023.11.** | **SW마에스트로 과정 제14기 연수생** | https://www.swmaestro.org/sw/main/main.do |
+| **2023.07.08 ~ 2023.10.07** | **2023 오픈소스 컨트리뷰션 아카데미(Hugging Face 한글화)** | https://www.contribution.ac/2023-ossca |
+-->
 
 | PERIOD | TITLE |  |
 | ------- | ------- | ------- |
@@ -44,6 +58,7 @@
 
 | Rank | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- |  ------- |
+|  **대상** | **2023.08.26 ~ 2023.08.27** | 엘리스 AI 에듀 해커톤 | 생성AI 기반의 교육 프로덕트 개발 |
 |  **10등** | **2023.03.25 ~ 2023.03.26** | LG Aimers | [스마트 공장 제품 품질 상태 분류 AI 오프라인 해커톤](https://dacon.io/competitions/official/236080/overview/description) |
 |  **14등** | **2022.10.04 ~ 2022.11.14** | Dacon | [월간 데이콘 예술 작품 화가 분류 AI 경진대회](https://dacon.io/competitions/official/236006/overview/rules) |
 |  **5등** | **2022.08.01 ~ 2022.08.26** | CLOVA AI RUSH 2022 2라운드 | 좋은 리뷰 사진 점수화 모델 개발 |
