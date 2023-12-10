@@ -41,13 +41,10 @@
 
 ## ✨Experience
 
-<!--
-| **2023.04.07 ~ 2023.11.** | **SW마에스트로 과정 제14기 연수생** | https://www.swmaestro.org/sw/main/main.do |
-| **2023.07.08 ~ 2023.10.07** | **2023 오픈소스 컨트리뷰션 아카데미(Hugging Face 한글화)** | https://www.contribution.ac/2023-ossca |
--->
-
 | PERIOD | TITLE |  |
 | ------- | ------- | ------- |
+| **2023.04.07 ~ 2023.12.14** | **SW마에스트로 과정 제14기 연수생** | https://www.swmaestro.org/sw/main/main.do |
+| **2023.07.08 ~ 2023.10.07** | **2023 오픈소스 컨트리뷰션 아카데미(Hugging Face 한글화)** | https://www.contribution.ac/2023-ossca |
 | **2022.08.31 ~ 2022.12.16** | **네이버 커넥트재단 부스트캠프 웹・모바일 7기 멤버십(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
 | **2022.07.18 ~ 2022.08.12** | **네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지(Web)** | https://boostcamp.connect.or.kr/program_wm.html |
 | **2022.07.05 ~ 2022.08.26** | **CLOVA AI RUSH 2022** | https://campaign.naver.com/clova_airush/ |
@@ -58,6 +55,8 @@
 
 | Rank | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- |  ------- |
+|  **은상** | **2023.11.25 ~ 2023.12.1** | 2023년 공개SW 개발자대회 | 오픈소스 개발 |
+|  **우수상** | **2023.11.25 ~ 2023.11.26** | 퓨리오사 AI 해커톤 | NPU 활용 Vision AI 개발 |
 |  **대상** | **2023.08.26 ~ 2023.08.27** | 엘리스 AI 에듀 해커톤 | 생성AI 기반의 교육 프로덕트 개발 |
 |  **10등** | **2023.03.25 ~ 2023.03.26** | LG Aimers | [스마트 공장 제품 품질 상태 분류 AI 오프라인 해커톤](https://dacon.io/competitions/official/236080/overview/description) |
 |  **14등** | **2022.10.04 ~ 2022.11.14** | Dacon | [월간 데이콘 예술 작품 화가 분류 AI 경진대회](https://dacon.io/competitions/official/236006/overview/rules) |
