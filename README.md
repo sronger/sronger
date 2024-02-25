@@ -37,7 +37,7 @@
 
 | AUTHOR | TITLE | GitHub |
 | ------- | ------- | ------- |
-| **Juntae Kim**, Eunjung Cho, Dongwoo Kim, Dongbin Na | **Problem-Solving Guide: Predicting the Algorithm Tags and Difficulty for Competitive Programming Problems** | [GitHub](https://github.com/sronger/PSG_Predicting_Algorithm_Tags_and_Difficulty) |
+| **Juntae Kim**, Eunjung Cho, Dongbin Na | **Problem-Solving Guide: Predicting the Algorithm Tags and Difficulty for Competitive Programming Problems** | [GitHub](https://github.com/sronger/PSG_Predicting_Algorithm_Tags_and_Difficulty) |
 
 ## ✨Experience
 
